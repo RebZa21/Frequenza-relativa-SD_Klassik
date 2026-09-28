@@ -16,8 +16,7 @@ La relazione completa, con metodo, risultati e limiti, è in [docs/Frequenze_rel
 ├── risultati_frequenza/   (i 5 CSV)
 ├── docs/Frequenze_relative_SD_Klassik.pdf
 ├── README.md
-├── requirements.txt
-└── .gitignore
+  
 </pre>
 
 ## Corpus
