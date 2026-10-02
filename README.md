@@ -1,8 +1,8 @@
-# Frequenze relative nel dramma tedesco: Sturm und Drang e Klassik a confronto
+# Frequenze relative nel teatro tedesco: Sturm und Drang e Klassik a confronto
 
 Progetto di Rebecca Zani, Master in Digital Humanities, Università degli Studi di Milano (2026-2027).
 
-L'analisi confronta il lessico di 54 drammi tedeschi: 32 dello **Sturm und Drang** (SD) e 22 della **Klassik**. Per ogni lemma calcola la frequenza relativa nelle due classi e individua le parole distintive di ciascuna con tre misure: il rapporto P(w|c)/P(w), il log-likelihood di Dunning (G²) e il log₂ ratio. Il notebook misura anche due tratti formali, la quota di versi e l'uso delle elisioni.
+L'analisi studia il lessico caratterizzante di 38 opere teatrali (21 Sturm und Drang-SD, 130.579 parole, 17 Klassizismus, 134.245 parole). 
 
 La relazione completa, con metodo, risultati e limiti, è in docs/analisi_notebook_output.pdf.
 
