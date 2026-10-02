@@ -4,7 +4,7 @@ Progetto di Rebecca Zani, Master in Digital Humanities, Università degli Studi 
 
 L'analisi confronta il lessico di 54 drammi tedeschi: 32 dello **Sturm und Drang** (SD) e 22 della **Klassik**. Per ogni lemma calcola la frequenza relativa nelle due classi e individua le parole distintive di ciascuna con tre misure: il rapporto P(w|c)/P(w), il log-likelihood di Dunning (G²) e il log₂ ratio. Il notebook misura anche due tratti formali, la quota di versi e l'uso delle elisioni.
 
-La relazione completa, con metodo, risultati e limiti, è in [docs/Frequenze_relative_SD_Klassik.pdf](docs/analisi_notebook_output.pdf).
+La relazione completa, con metodo, risultati e limiti, è in docs/analisi_notebook_output.pdf.
 
 ## Struttura del repository
 
