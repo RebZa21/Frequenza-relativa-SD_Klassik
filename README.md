@@ -10,9 +10,9 @@ La relazione completa, con metodo, risultati e limiti, è in docs/analisi_notebo
 
 <pre>
 ├── frequenza_relativa_SD_Klassizismus_lessico.ipynb
-├── GerDraCor SD Klassik/
+├── GerDraCor SD Klassizismus/
 │   ├── SD/          
-│   └── Klassik/    
+│   └── Klassizismus/    
 ├── risultati_frequenza/   
 ├── docs/analisi_notebook_output.pdf
 ├── README.md
