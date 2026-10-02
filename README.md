@@ -9,12 +9,12 @@ La relazione completa, con metodo, risultati e limiti, è in [docs/Frequenze_rel
 ## Struttura del repository
 
 <pre>
-├── frequenza_relativa_SD_Klassik.ipynb
+├── frequenza_relativa_SD_Klassizismus_lessico.ipynb
 ├── GerDraCor SD Klassik/
 │   ├── SD/          
 │   └── Klassik/    
-├── risultati_frequenza/   (i 5 CSV)
-├── docs/Frequenze_relative_SD_Klassik.pdf
+├── risultati_frequenza/   
+├── docs/analisi_notebook_output.pdf
 ├── README.md
   
 </pre>
